@@ -1,1 +1,1 @@
-# Practicing-SQL-Queries-on-Public-Datasets
+# Practicing SQL Queries on Public Datasets
